@@ -1,0 +1,11 @@
+---
+title: "README"
+author: "@hrbrmstr"
+date: November 25, 2014
+output:
+  md_document:
+    variant: markdown_github
+---
+
+snowfirst is ...
+
