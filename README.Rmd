@@ -1,11 +1,11 @@
 ---
-title: "README"
-author: "@hrbrmstr"
-date: November 25, 2014
-output:
-  md_document:
-    variant: markdown_github
+output: rmarkdown::github_document
 ---
 
-snowfirst is an example of how to work with USHCN data in R
+`snowfirst` is an example of how to work with USHCN data in R
 
+It is supporting code for two blog posts over at <http://rud.is/b>
+
+![](original.png)
+![](snowfacets.png)
+![](snowheat.png)
